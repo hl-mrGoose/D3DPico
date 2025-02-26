@@ -1,0 +1,21 @@
+DELAY 500
+COMMAND SPACE
+DELAY 500
+STRING Terminal
+DELAY 500
+ENTER
+DELAY 1000
+STRING cd ~/Downloads
+ENTER
+STRING curl -O https://github.com/hl-mrGoose/D3DPico/raw/main/JOIN_US.gif
+ENTER
+DELAY 2000
+COMMAND H  # Hide Terminal AFTER download
+DELAY 500
+STRING open JOIN_US.gif
+ENTER
+DELAY 1000
+STRING reset
+ENTER
+DELAY 500
+COMMAND Q  # Quit Terminal

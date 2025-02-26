@@ -1,7 +1,7 @@
 # D3DPico ⌨️
 Custom Payload scripts that turn your Rubber ducky into Merciless Weapons of Havoc!
 
-// Our scripts our designed to have a version for both Windows and MacOS //
+// Our scripts are designed and coded to have a version for both Windows and MacOS //
 
 # Features:
 . Reverse Shell Payloads 
